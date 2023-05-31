@@ -1,0 +1,2 @@
+require("lcl")
+print("Hello")
