@@ -1,2 +1,1 @@
 require("lcl")
-print("Hello")
