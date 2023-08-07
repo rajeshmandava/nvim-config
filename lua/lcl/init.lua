@@ -1,2 +1,2 @@
 require("lcl.remap")
-print("Hello from lcl")
+require("lcl.set")
