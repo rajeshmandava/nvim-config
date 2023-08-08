@@ -1,6 +1,6 @@
 local lsp = require('lsp-zero')
 
-lsp.preset('reommended')
+lsp.preset('recommended')
 
 lsp.ensure_installed({
 'tsserver',
